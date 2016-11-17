@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.darkarmy.ykl.samaritan"
+        applicationId "com.sysad.gr00t.vassist"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1

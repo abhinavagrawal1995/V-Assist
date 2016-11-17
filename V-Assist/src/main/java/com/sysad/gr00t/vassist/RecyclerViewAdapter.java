@@ -7,13 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.darkarmy.ykl.samaritan.R;
+import com.sysad.gr00t.vassist.R;
 
 import java.util.List;
 
-/**
- * Created by apple on 13/11/16.
- */
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.AadharCardViewHolder> {
 

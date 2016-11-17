@@ -20,7 +20,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.darkarmy.ykl.samaritan.R;
+import com.sysad.gr00t.vassist.R;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;

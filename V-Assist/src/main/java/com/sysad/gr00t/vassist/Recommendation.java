@@ -15,7 +15,7 @@ import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.Toast;
 
-import com.darkarmy.ykl.samaritan.R;
+import com.sysad.gr00t.vassist.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

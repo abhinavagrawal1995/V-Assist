@@ -8,7 +8,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.darkarmy.ykl.samaritan.R;
+import com.sysad.gr00t.vassist.R;
 
 import java.util.Random;
 
